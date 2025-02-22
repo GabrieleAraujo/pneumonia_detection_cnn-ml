@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Este repositório contém as bases de dados e resultados do artigo submetido ao <br> XXV Simpósio Brasileiro de Computação Aplicada à Saúde (<a href="https://www.sbcas2025.com/">SBCAS 2025</a>)</h4>
+<h4 align=“center”>This repository contains the databases and results of the article submitted to the <br> XXV Brazilian Symposium on Applied Health Computing (<a href=“https://www.sbcas2025.com/”>SBCAS 2025</a>)</h4>
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
