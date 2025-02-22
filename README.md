@@ -1,4 +1,4 @@
-# pneumonia_detection
+
 
 <h1 align="center">
   <!-- <img align="center" alt="SBSI" height="80" width="280" src="https://sbsi2024.ufjf.br/assets/images/sbsi2024.png"> <br> -->
