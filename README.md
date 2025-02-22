@@ -1,13 +1,13 @@
 # pneumonia_detection
 
 <h1 align="center">
-  <img align="center" alt="SBSI" height="80" width="280" src="https://sbsi2024.ufjf.br/assets/images/sbsi2024.png"> <br>
+  <img align="center" alt="SBSI"> <br>
   <br>
    Hybrid Approaches for Pneumonia Detection in X-rays: Combining CNNs and Random Forest
   <br>
 </h1>
 
-<h4 align="center">Este repositório contém as bases de dados e resultados do artigo submetido ao <br> XXV Simpósio Brasileiro de Computação Aplicada à Saúde (<a href="https://jems3.sbc.org.br/sbcas2025">SBCAS 2025</a>)</h4>
+<h4 align="center">Este repositório contém as bases de dados e resultados do artigo submetido ao <br> XXV Simpósio Brasileiro de Computação Aplicada à Saúde (<a href="https://www.sbcas2025.com/">SBCAS 2025</a>)</h4>
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
