@@ -92,4 +92,46 @@ We used the [Chest X-ray dataset by Kermany et al. (2018)](https://data.mendeley
 ## License
 This project is licensed under the MIT License.
 
+## Authors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://orcid.org/0000-0003-1143-507X">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGjSwuxOtcWTA/profile-displayphoto-shrink_200_200/B4DZTYABOEGcAc-/0/1738790672659?e=1753315200&v=beta&t=w9ElVgj2tNOaCe4zkQ04e8WxDn42IXRvOZ-ZFYm0H5g" width="100px;" alt="Foto da Gabriele"/><br>
+        <sub>
+          <b>Gabriele S. Araújo</b><br>
+          UEMA – São Luís, Brazil
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://orcid.org/0000-0002-5805-2490">
+        <img src="https://media.licdn.com/dms/image/v2/C5603AQHhhmqwVwA1Dw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516527015507?e=1753315200&v=beta&t=xyq4UPwcLyiYUcrSs6AvX2obdZd4Tfo3jlxIuWp5FFM" width="100px;" alt="Foto do Omar"/><br>
+        <sub>
+          <b>Omar Andres C. Cortes</b><br>
+          IFMA – São Luís, Brazil
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://orcid.org/0000-0003-1977-1641">
+        <img src="https://media.licdn.com/dms/image/v2/C5603AQF-p0kzl_K75w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517004464388?e=1753315200&v=beta&t=sevBH_b4ISWysiW_91E7FL8AOzWfE19DNtsUJvxl5ZA" width="100px;" alt="Foto do Olaf"/><br>
+        <sub>
+          <b>Olaf Reinhold</b><br>
+          DH Saxony – Germany
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://orcid.org/0000-0002-6282-0368">
+        <img src="https://avatars.githubusercontent.com/u/42838538?s=400&v=4" width="100px;" alt="Foto do Fábio"/><br>
+        <sub>
+          <b>Fábio M. F. Lobato</b><br>
+          UFOPA – Santarém, Brazil
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
