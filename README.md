@@ -12,7 +12,7 @@
   <br>
 </h1>
 
-<h4 align=“center”>This repository contains the databases and results of the article submitted to the 20th Conference on Computer Science and Intelligence Systems FedCSIS 2025 (IEEE#66292) (<a href=“[https://www.sbcas2025.com/](https://2025.fedcsis.org/)”>FedCSIS 2025</a>)</h4>
+<h4 align=“center”>This repository contains the databases and results of the article submitted to the 20th Conference on Computer Science and Intelligence Systems FedCSIS 2025 (IEEE#66292) (<a href="https://www.sbcas2025.com/](https://2025.fedcsis.org/">FedCSIS 2025</a>)</h4>
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
