@@ -16,9 +16,11 @@
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
-  <!-- <a href="#overview">Overview</a> •
-  <a href="#conteúdo">Conteúdo</a> • -->
-  <!-- <a href="#autores">Autores</a> -->
+  <a href="#repository">Repository</a> •
+  <a href="#pipeline">Pipeline</a> •
+  <a href="#dataset">Dataset</a> •
+  <a href="#results">Results</a> •
+  <a href="#authors">Authors</a> 
 </p>
 
 ## Abstract
@@ -29,19 +31,9 @@ Pneumonia is a disease that impacts millions of people worldwide, and X-ray imag
 
 OBS.: **The remaining sections of this repository will be made available after the article's official publication.**
 
-
-<!--
-Key findings:
-- **CNNs + RF** achieved the best performance: **91.9% accuracy, AUC = 0.977**;
-- **CNNs + SVM** achieved the best recall: **0.979**, reducing false negatives;
-- Statistical tests confirmed the significance of the results.
-
-The results suggest this hybrid pipeline is suitable for deployment in **low-resource clinical environments**.  
-Future work includes multiclass classification and improved ensemble strategies.
--->
 ---
 
-## Repository Structure
+## Repository
 ```bash 
 pneumonia-detection/
 ├── data/ # Input dataset and preprocessed versions
@@ -53,30 +45,18 @@ pneumonia-detection/
 ├── requirements.txt # Python dependencies
 └── README.md
 ```
----
-<!--
-## Dataset
-
-We used the [Chest X-ray dataset by Kermany et al. (2018)](https://data.mendeley.com/datasets/rscbjbr9sj/3), containing:
-- 5.856 pediatric chest X-rays (normal and pneumonia)
-- Data balanced and preprocessed
-- Augmented using rotations, flips, shifts, and brightness changes
--->
 ## Pipeline
+...
+---
+## Dataset
+...
 
-
-## Results Summary
+## Results
+...
 <!--
 ### Best performing models
-
-| Model         | Accuracy | Recall | F1-score | AUC   |
-|---------------|----------|--------|----------|--------|
-| CNNs + RF     | **91.9%** | 91.9%  | 91.8%    | **0.977** |
-| CNNs + SVM    | 89.7%    | **97.9%** | 91.7%    | 0.963 |
-| VGG16         | 91.8%    | 91.8%  | 91.7%    | 0.969 |
 -->
 ---
-
 ## How to Run
 
 1. Clone this repo:
