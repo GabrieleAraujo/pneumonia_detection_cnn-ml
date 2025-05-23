@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/GabrieleAraujo/pneumonia-detection)](https://github.com/GabrieleAraujo/pneumonia-detection/issues)
+[![GitHub issues](https://img.shields.io/github/issues/GabrieleAraujo/pneumonia-detection)](https://github.com/GabrieleAraujo/pneumonia_detection/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)](https://github.com/GabrieleAraujo/pneumonia-detection/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![HitCount](https://views.whatilearened.today/views/github/GabrieleAraujo/pneumonia-detection.svg)](https://github.com/GabrieleAraujo/pneumonia-detection) 
