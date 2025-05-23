@@ -61,7 +61,7 @@ pneumonia-detection/
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/GabrieleAraujo/pneumonia-detection.git
+   git clone https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml.git
    cd pneumonia-detection
 
 2. Create a virtual environment and install dependencies:
