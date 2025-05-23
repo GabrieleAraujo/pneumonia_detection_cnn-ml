@@ -119,7 +119,7 @@ This project is licensed under the MIT License.
         <img src="https://media.licdn.com/dms/image/v2/C5603AQF-p0kzl_K75w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517004464388?e=1753315200&v=beta&t=sevBH_b4ISWysiW_91E7FL8AOzWfE19DNtsUJvxl5ZA" width="100px;" alt="Foto do Olaf"/><br>
         <sub>
           <b>Olaf Reinhold</b><br>
-          DH Saxony – Germany
+          DHSN Riesa – Germany
         </sub>
       </a>
     </td>
