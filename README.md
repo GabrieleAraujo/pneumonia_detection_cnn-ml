@@ -36,13 +36,13 @@ OBS.: **The remaining sections of this repository will be made available after t
 ## Repository
 ```bash 
 pneumonia-detection/
-├── data/ # Input dataset and preprocessed versions
-├── figures/ # Confusion matrices and performance plots
-├── notebooks/ # Jupyter notebooks for training & evaluation
-├── models/ # Saved model weights (optional)
-├── results/ # Output metrics, AUC scores, logs, etc.
-├── utils/ # Helper scripts: preprocessing, metrics, etc.
-├── requirements.txt # Python dependencies
+├── data/ 
+├── figures/ 
+├── notebooks/ 
+├── models/ 
+├── results/ 
+├── utils/ 
+├── requirements.txt 
 └── README.md
 ```
 ## Pipeline
