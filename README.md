@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/GabrieleAraujo/pneumonia-detection)](https://github.com/GabrieleAraujo/pneumonia_detection/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)](https://github.com/GabrieleAraujo/pneumonia-detection/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/GabrieleAraujo/pneumonia_detection_cnn-ml)](https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)](https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/GabrieleAraujo/pneumonia-detection.svg)](https://github.com/GabrieleAraujo/pneumonia-detection) 
+[![HitCount](https://views.whatilearened.today/views/github/GabrieleAraujo/pneumonia_detection_cnn-ml.svg)](https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml) 
 [![website coderjojo.github.io](https://img.shields.io/website-up-down-yellow-red/http/coderjojo.github.io/creative-profile-readme.svg)](http://laca-ufopa.com.br/)
 
 <h1 align="center">
