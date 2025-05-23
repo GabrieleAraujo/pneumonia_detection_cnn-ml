@@ -5,7 +5,7 @@
 [![website coderjojo.github.io](https://img.shields.io/website-up-down-yellow-red/http/coderjojo.github.io/creative-profile-readme.svg)](http://laca-ufopa.com.br/)
 
 <h1 align="center">
-  <img align="center" alt="FedCSIS" height="200" width="2200" src="https://2025.fedcsis.org/sites/2025/files/Fedcsis2025-2400x300.png"> <br>
+  <img align="center" alt="FedCSIS" height="180" width="2200" src="https://2025.fedcsis.org/sites/2025/files/Fedcsis2025-2400x300.png"> <br>
 
   <br>
    Hybrid Approaches for Pneumonia Detection in X-rays: Combining CNNs and ML Classifiers
