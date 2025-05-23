@@ -1,6 +1,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/GabrieleAraujo/pneumonia-detection)](https://github.com/GabrieleAraujo/pneumonia-detection/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)](https://github.com/GabrieleAraujo/pneumonia-detection/pulls)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![HitCount](https://views.whatilearened.today/views/github/GabrieleAraujo/pneumonia-detection.svg)](https://github.com/GabrieleAraujo/pneumonia-detection) 
+[![website coderjojo.github.io](https://img.shields.io/website-up-down-yellow-red/http/coderjojo.github.io/creative-profile-readme.svg)](http://laca-ufopa.com.br/)
 
 <h1 align="center">
   <img align="center" alt="FedCSIS" height="200" width="2200" src="https://2025.fedcsis.org/sites/2025/files/Fedcsis2025-2400x300.png"> <br>
