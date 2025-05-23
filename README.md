@@ -2,11 +2,11 @@
 
 <h1 align="center">
   <br>
-   Hybrid Approaches for Pneumonia Detection in X-rays: Combining CNNs and Random Forest
+   Hybrid Approaches for Pneumonia Detection in X-rays: Combining CNNs and ML Classifiers
   <br>
 </h1>
 
-<h4 align=“center”>This repository contains the databases and results of the article submitted to the <br> XXV Brazilian Symposium on Applied Health Computing (<a href=“https://www.sbcas2025.com/”>SBCAS 2025</a>)</h4>
+<h4 align=“center”>This repository contains the databases and results of the article submitted to the <br> 20th Conference on Computer Science and Intelligence Systems FedCSIS 2025 (IEEE#66292) (<a href=“[https://www.sbcas2025.com/](https://2025.fedcsis.org/)”>FedCSIS 2025</a>)</h4>
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
@@ -17,4 +17,4 @@
 
 ## Abstract
 
-Pneumonia is a disease that impacts millions of people worldwide, and X-ray image detection is one of the primary diagnostic tools used. This study proposes an approach based on Ensemble Learning that combines Convolutional Neural Networks (CNNs) with Random Forest (RF) for the automated classification of chest X-ray images. A dataset containing 5.856 images was utilized to implement and compare various architectures, including MobileNetV2, EfficientNetB0, and VGG16. The results indicate that EfficientNetB0 underperformed, while the Ensemble (All) model achieved the highest AUC (0.9705), and RF obtained the best accuracy (90.71%). Statistical tests confirmed significant differences between models. These findings reinforce the effectiveness of hybrid approaches in medical image classification.
+Pneumonia is a disease that impacts millions of people worldwide, and X-ray image detection is one of the primary diagnostic tools used. This study presents a hybrid diagnostic approach combining Convolutional Neural Networks (CNNs) with traditional classifiers, namely Random Forest (RF) and Support Vector Machine (SVM), to detect pneumonia from chest X-ray images. Features were extracted from MobileNetV2, VGG16, and EfficientNetB0 and used to train RF and SVM models with hyperparameter tuning via GridSearchCV. Ensemble models were also explored: (i) CNNs + RF, (ii) CNNs + SVM, and (iii) RF + SVM. Experiments were conducted using a public pediatric dataset (5.856 X-rays) with stratified k-fold cross-validation and data augmentation. CNNs + RF achieved the highest 0.977 AUC and 91.9\% accuracy, while individual models, VGG16, showed competitive performance (91.8\% accuracy, 0.969 AUC). Results were statistically validated and showed strong potential for clinical support, particularly in settings with limited resources. In future work, we propose extending the approach to multiclass classification and refining model optimization strategies.
