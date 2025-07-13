@@ -37,7 +37,11 @@ pneumonia-detection/
 └── README.md
 ```
 ## Pipeline
-...
+The following diagram summarizes the pipeline used in this study:
+
+<p align="center">
+  <img src="pipeline.png" alt="Pipeline Diagram" width="800"/>
+</p>
 ---
 ## Dataset
 ...
