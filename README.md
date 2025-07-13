@@ -40,14 +40,41 @@ pneumonia-detection/
 The following diagram summarizes the pipeline used in this study:
 
 <p align="center">
-  <img src="pipeline.png" alt="Pipeline Diagram" width="800"/>
+  <img src="https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml/blob/main/Pipeline.png" alt="Pipeline Diagram" width="800"/>
 </p>
+
 ---
+
 ## Dataset
-...
+- [Chest Xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) 
+
+---
 
 ## Results
-...
+
+### Performance metrics for individual and ensemble models (Proposed and Literature)
+
+| Model                                          | Accuracy | Precision | Recall (Sens.) | F1-score | F1-macro | AUC   |
+|-----------------------------------------------|----------|-----------|----------------|----------|----------|-------|
+| **Literature Models**                         |          |           |                |          |          |       |
+| Tougaccar et al. (2020) – VGG16 + SVM          | 0.967    | 0.966     | 0.968          | 0.967    | --       | --    |
+| Akgundogdu et al. (2021) – 2D DWT + RF         | 0.971    | 0.990     | 0.917          | 0.980    | 0.926    | 0.990 |
+| Akgundogdu et al. (2021) – 2D DWT + SVM        | 0.934    | 0.946     | 0.852          | 0.875    | 0.830    | 0.908 |
+| El Asnaoui et al. – Hybrid (EffNetB0 + SVM)    | 0.970    | 1.000     | 0.958          | 0.979    | --       | 0.980 |
+| El Asnaoui et al. – EfficientNetB0 (sigmoid)   | 0.967    | 0.999     | 0.956          | 0.977    | --       | 0.976 |
+| Kermany et al. (2018) – InceptionV3 + TL       | 0.928    | 0.901     | 0.932          | 0.928    | --       | 0.968 |
+| **Proposed Models**                           |          |           |                |          |          |       |
+| MobileNetV2                                    | 0.889    | 0.893     | 0.889          | 0.887    | 0.877    | 0.954 |
+| VGG16                                          | 0.918    | 0.921     | 0.918          | 0.917    | 0.911    | 0.969 |
+| EfficientNetB0                                 | 0.896    | 0.898     | 0.896          | 0.896    | 0.890    | 0.963 |
+| Random Forest                                  | 0.878    | 0.882     | 0.878          | 0.875    | 0.864    | 0.945 |
+| Ensemble CNNs + RF                             | 0.919    | 0.921     | 0.919          | 0.918    | 0.911    | 0.977 |
+| Ensemble MN + VGG + RF                         | 0.911    | 0.915     | 0.911          | 0.909    | 0.901    | 0.974 |
+| Ensemble CNNs + SVM                            | 0.897    | 0.862     | 0.979          | 0.917    | 0.889    | 0.963 |
+| Ensemble RF + SVM                              | 0.724    | 0.725     | 0.724          | 0.703    | 0.670    | 0.802 |
+
+
+
 <!--
 ### Best performing models
 -->
