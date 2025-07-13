@@ -27,22 +27,13 @@
 
 Pneumonia is a disease that impacts millions of people worldwide, and X-ray image detection is one of the primary diagnostic tools used. This study presents a hybrid diagnostic approach combining Convolutional Neural Networks (CNNs) with traditional classifiers, namely Random Forest (RF) and Support Vector Machine (SVM), to detect pneumonia from chest X-ray images. Features were extracted from MobileNetV2, VGG16, and EfficientNetB0 and used to train RF and SVM models with hyperparameter tuning via GridSearchCV. Ensemble models were also explored: (i) CNNs + RF, (ii) CNNs + SVM, and (iii) RF + SVM. Experiments were conducted using a public pediatric dataset (5.856 X-rays) with stratified k-fold cross-validation and data augmentation. CNNs + RF achieved the highest 0.977 AUC and 91.9\% accuracy, while individual models, VGG16, showed competitive performance (91.8\% accuracy, 0.969 AUC). Results were statistically validated and showed strong potential for clinical support, particularly in settings with limited resources. In future work, we propose extending the approach to multiclass classification and refining model optimization strategies.
 
----
-
-OBS.: **The remaining sections of this repository will be made available after the article's official publication.**
 
 ---
 
 ## Repository
 ```bash 
 pneumonia-detection/
-├── data/ 
-├── figures/ 
-├── notebooks/ 
-├── models/ 
-├── results/ 
-├── utils/ 
-├── requirements.txt 
+├── results/  
 └── README.md
 ```
 ## Pipeline
