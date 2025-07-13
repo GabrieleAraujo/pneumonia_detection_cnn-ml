@@ -16,7 +16,6 @@
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
-  <a href="#repository">Repository</a> •
   <a href="#pipeline">Pipeline</a> •
   <a href="#dataset">Dataset</a> •
   <a href="#results">Results</a> •
@@ -30,12 +29,6 @@ Pneumonia is a disease that impacts millions of people worldwide, and X-ray imag
 
 ---
 
-## Repository
-```bash 
-pneumonia-detection/
-├── results/  
-└── README.md
-```
 ## Pipeline
 The following diagram summarizes the pipeline used in this study:
 
