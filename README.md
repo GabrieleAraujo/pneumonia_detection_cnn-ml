@@ -40,6 +40,9 @@ The following diagram summarizes the pipeline used in this study:
 
 ## Dataset
 - [Chest Xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) 
+<p align="center">
+  <img src="https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml/blob/main/data_sample.png" alt="data sample" width="800"/>
+</p>
 
 ---
 
