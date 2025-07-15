@@ -33,7 +33,7 @@ Pneumonia is a disease that impacts millions of people worldwide, and X-ray imag
 The following diagram summarizes the pipeline used in this study:
 
 <p align="center">
-  <img src="https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml/blob/main/Pipeline.png" alt="Pipeline Diagram" width="800"/>
+  <img src="https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml/blob/main/figure_extra/Pipeline.png" alt="Pipeline Diagram" width="800"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@ The following diagram summarizes the pipeline used in this study:
 ## Dataset
 - [Chest Xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) 
 <p align="center">
-  <img src="https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml/blob/main/data_sample.png" alt="data sample" width="800"/>
+  <img src="https://github.com/GabrieleAraujo/pneumonia_detection_cnn-ml/blob/main/figure_extra/data_sample.png" alt="data sample" width="800"/>
 </p>
 
 ---
